@@ -1,3 +1,4 @@
+QWQ
 # ColorMirai
 一个基于[Mirai](https://github.com/mamoe/mirai) 的机器人框架  
 不提供二进制文件，请自行构建  
